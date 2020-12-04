@@ -4,7 +4,7 @@
 
 I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between Full Stack Web Developer and Family Guy.
 
-I’m currently working at Canadian automotive company **Unhaggle** as a Full Stack Engineer using awesome **Django** and awesome **Vue.js.**
+I’m currently working at Canadian automotive company **Unhaggle** as a Full Stack Engineer using awesome **Django** and lightweight **Vue.js.**
 
 <!-- ## :heartpulse:  My values (TBD)
 
@@ -21,9 +21,12 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff)
 
-<!-- 
-## :dart: My 2021 Goals (TBD)
- -->
+## :dart: My 2021Q1 Goals
+
+* Completed and published DJobeet - Django version of Jobeet course introduced originally for Symfony framework
+* Finished migration of my personal blog to new platform (Pelican Static Site Generator)
+* Published working version of Rathma pet project, publicly accessible
+* Completed custom cookiecutter template for starting personal projects with just a few keystrokes
 
 ## :seedling: I’m currently learning... too many things at once
 
@@ -32,13 +35,13 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 * Basics of electronics (I've already connected battery with a LED and it exploded only once)
 * Golang
 
-To be more precise - I'm continuously learning other things as well - including technologies I'm working with everyday, however I'm still trying to keep in mind that:
+To be more precise - I'm continuously learning other things as well - including technologies I'm working with on day to day, however I'm still trying to keep in mind that:
 
 > You can do anything, but not everything.
 
 And to be honest I'm not good at it because I'm curious about too many things.
 
-I write my personal thoughts on :gear: Tech & :seedling: Life in my :writing_hand: [Personal Blog](https://blog.filipgorczynski.me/) - more or less regularly.
+I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_hand: [Personal Blog](https://blog.filipgorczynski.me/) - more or less regularly.
 
 ## 📫 Connect with Me
 
@@ -51,6 +54,7 @@ I write my personal thoughts on :gear: Tech & :seedling: Life in my :writing_han
 <!-- ## 🚧 Current Pet Projects (TBD)
 
 * DJobeet
+* Rathma
 *  -->
 
 ## :sparkles: Some facts about me
@@ -62,41 +66,50 @@ I write my personal thoughts on :gear: Tech & :seedling: Life in my :writing_han
 * I feel more focused with a hoodie puts on
 * I wake up at 4:40 followed with a cold shower
 * I'm a huge fan of Iron Man and Hulk
-* I'm a big fan of *Universe of Metro 2033* - mostly books and books "Daemon" and "Freedom" written by Daniel Suarez
+* I really enjoyed *Universe of Metro 2033* books series; also a big fan of two books: "Daemon" and "Freedom" written by Daniel Suarez.
 * I use ![Todoist](https://img.shields.io/badge/-Todoist-E44332?logo=Todoist&logoColor=fff) everyday
 
 ## :hourglass_flowing_sand: Things I don't know, I want to master or just improve (randomly ordered)
 
-* Software Architecture, microservices and distributed systems as a whole
+* Software Architecture, microservices, distributed systems and all the fancy keywords
+* Dive into Domain-driven design
+* Software Design Patterns
 * Software Craftsmanship
 * Learn teaching and mentoring
 * code search and read with **grep** and **find** from command line (only ack-grep right now)
-* best practices API design and security
+* best practices related with API design and its security
 * Golang
 * Vuetify & TailwindCSS
-* Docker ecosystem & Kubernetes
-* Building and managing CI/CD: Travis CI & GitHub Actions
+* deeper understanding of Docker ecosystem with Kubernetes
+* Building and managing CI/CD pipes: Travis CI & GitHub Actions.
 * Webpack
-* Mermaid and maybe PlantUML
+* Mermaid and **maybe** PlantUML
 * BPML
 * AWS (mostly web applications related services)
-* GraphQL
+* GraphQL, Elasticsearch, Redis, MongoDB, Firebase
 * Responsive Web Design & Flexbox
 * Progressive Web Application
 * Web Applications Security
 * **maybe** ReactJS and React Native
-* Flutter & Kotlin
+* **maybe** Flutter & Kotlin
 * Electron
 * TypeScript
 * Messaging queues (RabbitMQ, ZeroMQ, RQ)
 * Asynchronous programming (asyncio, threading, Promises)
 * Reactive programming
-* Testing: E2E, TDD, BDD
+* Quality Assurance: E2E, TDD, BDD: pytest, jest, Selenium, Cypress, Behave, Lettuce, Robot Framework
 * Arduino & AVR programming, scratch the surface with Raspberry Pi
-* Blender, Inkscape, Aseprite - mostly for pixelart and gamedev :stars:
-* Elasticsearch, Redis, MongoDB, Firebase
-* Online Marketing (Google, Facebook, Amazon, Pinterst) & SEO
-* Network troubleshooting (CCNA or something)
+* Inkscape, Aseprite, Blender - mostly for pixelart and gamedev :stars:
+* Online Marketing (focusing on Google, Facebook, Amazon & Pinterst) & SEO
+* Network troubleshooting (CCNA or something); building and managing home networks
+* Web Scraping (with Scrapy package)
 * ...
+
+## :books: Currently Reading
+
+* *48-godzinna doba* - Maciej Wieczorek
+* *Antywirus. Cykl Cyfrak. Tom 2* - Krzysztof Haladyn
+* *Django for Beginners, Build websites with Python and Django* - William S. Vincent
+* *Umysł zen, umysł początkującego* - Shunryu Suzuki
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
