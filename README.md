@@ -23,10 +23,10 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ## :dart: My 2021Q1 Goals
 
-* Completed and published DJobeet - Django version of Jobeet course introduced originally for Symfony framework
-* Finished migration of my personal blog to new platform (Pelican Static Site Generator)
+* Completed and published [DJobeet](https://github.com/filipgorczynski/djobeet) - Django version of Jobeet course introduced originally for Symfony framework
+* Finished migration of [my personal blog](https://github.com/filipgorczynski/blog.filipgorczynski.me) to new platform (Pelican Static Site Generator)
 * Published working version of Rathma pet project, publicly accessible
-* Completed custom cookiecutter template for starting personal projects with just a few keystrokes
+* Completed customized [cookiecutter template](https://github.com/filipgorczynski/backend-skeleton) for starting personal projects with just a few keystrokes
 
 ## :seedling: I’m currently learning... too many things at once
 
@@ -81,7 +81,7 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * Golang
 * Vuetify & TailwindCSS
 * deeper understanding of Docker ecosystem with Kubernetes
-* Building and managing CI/CD pipes: Travis CI & GitHub Actions.
+* Building and managing CI/CD pipes: Travis CI & GitHub Actions
 * Webpack
 * Mermaid and **maybe** PlantUML
 * BPML
