@@ -105,11 +105,14 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * Web Scraping (with Scrapy package)
 * ...
 
-## :books: Currently Reading
+## :books: Books
 
-* *48-godzinna doba* - Maciej Wieczorek
+### Currently Reading
+
 * *Antywirus. Cykl Cyfrak. Tom 2* - Krzysztof Haladyn
+
+### Finished
+
 * *Django for Beginners, Build websites with Python and Django* - William S. Vincent
-* *Umysł zen, umysł początkującego* - Shunryu Suzuki
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
