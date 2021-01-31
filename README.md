@@ -90,29 +90,19 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * Responsive Web Design & Flexbox
 * Progressive Web Application
 * Web Applications Security
-* **maybe** ReactJS and React Native
+* ReactJS and React Native
 * **maybe** Flutter & Kotlin
 * Electron
 * TypeScript
 * Messaging queues (RabbitMQ, ZeroMQ, RQ)
 * Asynchronous programming (asyncio, threading, Promises)
 * Reactive programming
-* Quality Assurance: E2E, TDD, BDD: pytest, jest, Selenium, Cypress, Behave, Lettuce, Robot Framework
+* Quality Assurance: E2E, TDD, BDD: pytest, jest, Selenium, Cypress, Robot Framework, ...
 * Arduino & AVR programming, scratch the surface with Raspberry Pi
 * Inkscape, Aseprite, Blender - mostly for pixelart and gamedev :stars:
 * Online Marketing (focusing on Google, Facebook, Amazon & Pinterst) & SEO
 * Network troubleshooting (CCNA or something); building and managing home networks
 * Web Scraping (with Scrapy package)
 * ...
-
-## :books: Books
-
-### Currently Reading
-
-* *Antywirus. Cykl Cyfrak. Tom 2* - Krzysztof Haladyn
-
-### Finished
-
-* *Django for Beginners, Build websites with Python and Django* - William S. Vincent
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
