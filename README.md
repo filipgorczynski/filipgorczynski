@@ -4,7 +4,7 @@
 
 I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between Full Stack Web Developer and Family Guy.
 
-I’m currently working at Canadian automotive company **Unhaggle** as a Full Stack Engineer using awesome **Django** and lightweight **Vue.js.**
+I’m currently working at Canadian automotive company **Unhaggle** as a Full Stack Engineer using awesome **Django** and lightweight **Vue.js**.
 
 <!-- ## :heartpulse:  My values (TBD)
 
@@ -13,27 +13,28 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ## :hammer_and_wrench: Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![React.js](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=fff) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=fff)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=fff) ![Redis](https://img.shields.io/badge/-Redis-DC382D?&logo=Redis&logoColor=fff) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=fff) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=SQLite&logoColor=fff) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=fff) ![Redis](https://img.shields.io/badge/-Redis-DC382D?&logo=Redis&logoColor=fff) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=fff) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=SQLite&logoColor=fff)
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff)
 
-## :dart: My 2021Q1 Goals
+## :dart: My 2021Q2 *Goals*
 
+* Learn React library ![React.js](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff)
 * Completed and published [DJobeet](https://github.com/filipgorczynski/djobeet) - Django version of Jobeet course introduced originally for Symfony framework
 * Finished migration of [my personal blog](https://github.com/filipgorczynski/blog.filipgorczynski.me) to new platform (Pelican Static Site Generator)
-* Published working version of Rathma pet project, publicly accessible
+* Published working version of Rathma pet project, privately accessible
 * Completed customized [cookiecutter template](https://github.com/filipgorczynski/backend-skeleton) for starting personal projects with just a few keystrokes
 
 ## :seedling: I’m currently learning... too many things at once
 
-* Godot Engine
-* Pixelart
-* Basics of electronics (I've already connected battery with a LED and it exploded only once)
-* Golang
+* React ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff)
+* Godot Engine ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?&logo=Godot+Engine&logoColor=fff)
+* Phaser3
+* Inkscape ![Inkscape](https://img.shields.io/badge/-Inkscape-000?logo=Inkscape&logoColor=fff)
 
 To be more precise - I'm continuously learning other things as well - including technologies I'm working with on day to day, however I'm still trying to keep in mind that:
 
@@ -64,7 +65,6 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * When I wont be able to be a developer I want to focus on woodworking
 * I love *Who Am I* movie (the one from Germany)
 * I feel more focused with a hoodie puts on
-* I wake up at 4:40 followed with a cold shower
 * I'm a huge fan of Iron Man and Hulk
 * I really enjoyed *Universe of Metro 2033* books series; also a big fan of two books: "Daemon" and "Freedom" written by Daniel Suarez.
 * I use ![Todoist](https://img.shields.io/badge/-Todoist-E44332?logo=Todoist&logoColor=fff) everyday
@@ -78,8 +78,7 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * Learn teaching and mentoring
 * code search and read with **grep** and **find** from command line (only ack-grep right now)
 * best practices related with API design and its security
-* Golang
-* Vuetify & TailwindCSS
+* Vuetify, Material UI
 * deeper understanding of Docker ecosystem with Kubernetes
 * Building and managing CI/CD pipes: Travis CI & GitHub Actions
 * Webpack
@@ -89,20 +88,21 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * GraphQL, Elasticsearch, Redis, MongoDB, Firebase
 * Responsive Web Design & Flexbox
 * Progressive Web Application
+* Writing Chrome extensions
 * Web Applications Security
-* ReactJS and React Native
-* **maybe** Flutter & Kotlin
-* Electron
 * TypeScript
 * Messaging queues (RabbitMQ, ZeroMQ, RQ)
-* Asynchronous programming (asyncio, threading, Promises)
+* Asynchronous programming (asyncio, threading, Promises, async/await)
 * Reactive programming
-* Quality Assurance: E2E, TDD, BDD: pytest, jest, Selenium, Cypress, Robot Framework, ...
-* Arduino & AVR programming, scratch the surface with Raspberry Pi
-* Inkscape, Aseprite, Blender - mostly for pixelart and gamedev :stars:
+* Quality Assurance: E2E, TDD, BDD: pytest, jest, Selenium, Cypress, ...
+* Arduino & basics of AVR programming
+* Aseprite, Inkscape, Blender - mostly for pixelart and gamedev :stars:
 * Online Marketing (focusing on Google, Facebook, Amazon & Pinterst) & SEO
 * Network troubleshooting (CCNA or something); building and managing home networks
 * Web Scraping (with Scrapy package)
+* Machine Learning - because it's fancy right now
 * ...
+
+I know the list is long, but let's be honest - our world is awesome place with lots things to learn, even if we just focus on tech industry.
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
