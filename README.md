@@ -21,13 +21,13 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff)
 
-## :dart: My 2021Q3 *Goals*
+## :dart: My 2021Q4 *Goals*
 
+* Learn as much as possible of 🎮 development - my new career path
 * Learn React library ![React.js](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff)
 * Completed and published [DJobeet](https://github.com/filipgorczynski/djobeet) - Django version of Jobeet course introduced originally for Symfony framework
-* Finished migration of [my personal blog](https://github.com/filipgorczynski/blog.filipgorczynski.me) to new platform (Pelican Static Site Generator)
 * Published working version of Rathma pet project, privately accessible
-* Completed customized [cookiecutter template](https://github.com/filipgorczynski/backend-skeleton) for starting personal projects with just a few keystrokes
+* Finished customized [cookiecutter template](https://github.com/filipgorczynski/backend-skeleton) for starting personal projects with just a few keystrokes
 
 ## :seedling: I’m currently learning... too many things at once
 
