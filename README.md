@@ -31,6 +31,9 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ## :seedling: I’m currently learning... too many things at once
 
+* PixiJS
+* Blender ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=Blender&logoColor=fff)
+* Unity ![Unity](https://img.shields.io/badge/-Unity-000?logo=Unity&logoColor=fff)
 * React ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff)
 * Godot Engine ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?&logo=Godot+Engine&logoColor=fff)
 * Phaser3
