@@ -2,9 +2,9 @@
 
 ## :man_technologist: About Me
 
-I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between Full Stack Web Developer and Family Guy.
+I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between full stack web developer, junior game developer and family guy.
 
-I’m currently working at Canadian automotive company **Unhaggle** as a Full Stack Engineer using awesome **Django** and lightweight **Vue.js**.
+I’m currently working as a junior game developer in Omnigame - game development company from Denmark. Yeah, I've decided to change my career path to try something new.
 
 <!-- ## :heartpulse:  My values (TBD)
 
