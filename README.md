@@ -23,14 +23,16 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ## :dart: My 2022Q1 Goals
 
+* Learn as much as possible of 🎮 development - my new career path
 * Learn MERN stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
 
 ## :seedling: I’m currently learning... too many things at once
 
+* PixiJS for 🎮 development
 * MERN Stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff)
 * Krita ![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=Krita&logoColor=fff) and Inkscape ![Inkscape](https://img.shields.io/badge/-Inkscape-000?logo=Inkscape&logoColor=fff)
-* General knowledge of game development
-* Godot Engine ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?&logo=Godot+Engine&logoColor=fff)
+<!-- * Blender ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=Blender&logoColor=fff) -->
+<!-- * Unity ![Unity](https://img.shields.io/badge/-Unity-000?logo=Unity&logoColor=fff) -->
 
 To be more precise - I'm continuously learning other things as well - including technologies I'm working with on day to day, however I'm still trying to keep in mind that:
 
