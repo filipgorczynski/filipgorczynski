@@ -6,6 +6,8 @@ I'm Filip and I wear many hats depending on what is required of me but most of t
 
 I’m currently working as a junior game developer in Omnigame - game development company from Denmark. Yeah, I've decided to change my career path to try something new.
 
+:gift: If you'd like to buy me something there is a [short and "curated" wish list](https://blog.filipgorczynski.me/pages/wish-list.html).
+
 <!-- ## :heartpulse:  My values (TBD)
 
 * Beginner's mindset and curiosity
