@@ -21,20 +21,16 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff)
 
-## :dart: My 2021Q3 *Goals*
+## :dart: My 2022Q1 Goals
 
-* Learn React library ![React.js](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff)
-* Completed and published [DJobeet](https://github.com/filipgorczynski/djobeet) - Django version of Jobeet course introduced originally for Symfony framework
-* Finished migration of [my personal blog](https://github.com/filipgorczynski/blog.filipgorczynski.me) to new platform (Pelican Static Site Generator)
-* Published working version of Rathma pet project, privately accessible
-* Completed customized [cookiecutter template](https://github.com/filipgorczynski/backend-skeleton) for starting personal projects with just a few keystrokes
+* Learn MERN stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
 
 ## :seedling: I’m currently learning... too many things at once
 
-* React ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff)
+* MERN Stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff)
+* Krita ![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=Krita&logoColor=fff) and Inkscape ![Inkscape](https://img.shields.io/badge/-Inkscape-000?logo=Inkscape&logoColor=fff)
+* General knowledge of game development
 * Godot Engine ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?&logo=Godot+Engine&logoColor=fff)
-* Phaser3
-* Inkscape ![Inkscape](https://img.shields.io/badge/-Inkscape-000?logo=Inkscape&logoColor=fff)
 
 To be more precise - I'm continuously learning other things as well - including technologies I'm working with on day to day, however I'm still trying to keep in mind that:
 
@@ -60,14 +56,13 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 
 ## :sparkles: Some facts about me
 
-* I'm the prisoner of **tsundoku**
 * After switching to Python I haven't used PHP anymore and I'm a lot happier.
-* When I wont be able to be a developer I want to focus on woodworking
+* When I wont be able to be a developer I want to focus on woodworking and board games.
 * I love *Who Am I* movie (the one from Germany)
 * I feel more focused with a hoodie puts on
 * I'm a huge fan of Iron Man and Hulk
 * I really enjoyed *Universe of Metro 2033* books series; also a big fan of two books: "Daemon" and "Freedom" written by Daniel Suarez.
-* I use ![Todoist](https://img.shields.io/badge/-Todoist-E44332?logo=Todoist&logoColor=fff) everyday
+* I'm a beginner in Warhammer 40,000 universe, terrains building (dungeons) and miniatures painting. And I really :heart: it.
 
 ## :hourglass_flowing_sand: Things I don't know, I want to master or just improve (randomly ordered)
 
