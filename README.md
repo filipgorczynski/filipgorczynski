@@ -15,7 +15,7 @@ I’m currently working as a junior game developer in Omnigame - game developmen
 
 ## :hammer_and_wrench: Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![React.js](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=fff) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=fff)
 
@@ -26,12 +26,12 @@ I’m currently working as a junior game developer in Omnigame - game developmen
 ## :dart: My 2022Q1 Goals
 
 * Learn as much as possible of 🎮 development - my new career path
-* Learn MERN stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
+* Learn MEVN stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
 
 ## :seedling: I’m currently learning... too many things at once
 
 * PixiJS for 🎮 development
-* MERN Stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff)
+* MEVN Stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff)
 * Krita ![Krita](https://img.shields.io/badge/-Krita-3BABFF?logo=Krita&logoColor=fff) and Inkscape ![Inkscape](https://img.shields.io/badge/-Inkscape-000?logo=Inkscape&logoColor=fff)
 <!-- * Blender ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=Blender&logoColor=fff) -->
 <!-- * Unity ![Unity](https://img.shields.io/badge/-Unity-000?logo=Unity&logoColor=fff) -->
@@ -73,29 +73,25 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * Software Architecture, microservices, distributed systems and all the fancy keywords
 * Dive into Domain-driven design
 * Software Design Patterns
-* Software Craftsmanship
-* Learn teaching and mentoring
 * code search and read with **grep** and **find** from command line (only ack-grep right now)
 * best practices related with API design and its security
-* Vuetify, Material UI
+* Vuetify & Bootstrap
 * deeper understanding of Docker ecosystem with Kubernetes
-* Building and managing CI/CD pipes: Travis CI & GitHub Actions
-* Webpack
+* Building and managing CI/CD pipes: GitHub Actions & Travis CI
 * Mermaid and **maybe** PlantUML
 * BPML
 * AWS (mostly web applications related services)
 * GraphQL, Elasticsearch, Redis, MongoDB, Firebase
-* Responsive Web Design & Flexbox
-* Progressive Web Application
+* Responsive Web Design, Grid & Flexbox
+* Progressive Web Applications
 * Writing Chrome extensions
 * Web Applications Security
 * TypeScript
 * Messaging queues (RabbitMQ, ZeroMQ, RQ)
 * Asynchronous programming (asyncio, threading, Promises, async/await)
-* Reactive programming
 * Quality Assurance: E2E, TDD, BDD: pytest, jest, Selenium, Cypress, ...
 * Arduino & basics of AVR programming
-* Aseprite, Inkscape, Blender - mostly for pixelart and gamedev :stars:
+* Krita, Aseprite, Inkscape, Blender - mostly for pixelart and gamedev :stars:
 * Online Marketing (focusing on Google, Facebook, Amazon & Pinterst) & SEO
 * Network troubleshooting (CCNA or something); building and managing home networks
 * Web Scraping (with Scrapy package)
