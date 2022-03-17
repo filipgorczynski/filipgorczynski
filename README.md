@@ -2,9 +2,11 @@
 
 ## :man_technologist: About Me
 
-I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between Full Stack Web Developer and Family Guy.
+I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between full stack web developer, junior game developer and family guy.
 
-I’m currently working at Canadian automotive company **Unhaggle** as a Full Stack Engineer using awesome **Django** and lightweight **Vue.js**.
+I’m currently working as a junior game developer in Omnigame - game development company from Denmark. Yeah, I've decided to change my career path to try something new.
+
+:gift: If you'd like to buy me something there is a [short and "curated" wish list](https://blog.filipgorczynski.me/pages/wish-list.html).
 
 <!-- ## :heartpulse:  My values (TBD)
 
@@ -13,7 +15,7 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ## :hammer_and_wrench: Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![React.js](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=fff) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=fff)
 
@@ -21,18 +23,19 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff)
 
-## :dart: My 2021Q4 *Goals*
+## :dart: My 2022Q1 Goals
 
 * Learn as much as possible of 🎮 development - my new career path
-* Learn React library ![React.js](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff)
-* Completed and published [DJobeet](https://github.com/filipgorczynski/djobeet) - Django version of Jobeet course introduced originally for Symfony framework
-* Published working version of Rathma pet project, privately accessible
-* Finished customized [cookiecutter template](https://github.com/filipgorczynski/backend-skeleton) for starting personal projects with just a few keystrokes
+* Learn MEVN stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
 
 ## :seedling: I’m currently learning... too many things at once
 
-* Krita ![Krita](https://img.shields.io/badge/-Krita-3babff?&logo=Krita&logoColor=fff)
+* PixiJS for 🎮 development
+* MEVN Stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff)
+* Krita ![Krita](https://img.shields.io/badge/-Krita-3BABFF?&logo=Krita&logoColor=fff) and Inkscape ![Inkscape](https://img.shields.io/badge/-Inkscape-000?logo=Inkscape&logoColor=fff)
 * Godot Engine ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?&logo=Godot+Engine&logoColor=fff)
+* Blender ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=Blender&logoColor=fff)
+<!-- * Unity ![Unity](https://img.shields.io/badge/-Unity-000?logo=Unity&logoColor=fff) -->
 
 To be more precise - I'm continuously learning other things as well - including technologies I'm working with on day to day, however I'm still trying to keep in mind that:
 
@@ -59,13 +62,13 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 ## :sparkles: Some facts about me
 
 * I'm the prisoner of **tsundoku**
-* After switching to Python I wasn't using PHP anymore
-* When I wont be able to be a developer I want to focus on woodworking
+* After switching to Python I wasn't using PHP anymore.
+* When I wont be able to be a developer I want to focus on woodworking and board games.
 * I love *Who Am I* movie (the one from Germany)
 * I feel more focused with a hoodie puts on
 * I'm a huge fan of Iron Man and Hulk
 * I really enjoyed *Universe of Metro 2033* books series; also a big fan of two books: "Daemon" and "Freedom" written by Daniel Suarez.
-* I'm a beginner miniatures painter
+* I'm a beginner in Warhammer 40,000 universe, terrains building (dungeons) and miniatures painting. And I really :heart: it.
 
 ## :hourglass_flowing_sand: Things I don't know, I want to master or just improve (randomly ordered)
 
@@ -76,7 +79,7 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * Learn teaching and mentoring
 * code search and read with **grep** and **find** command line tools (only ack-grep right now)
 * best practices related with API design and its security
-* Vuetify, Tailwind CSS
+* Vuetify, Bootstrap, Tailwind CSS
 * deeper understanding of Docker ecosystem
 * Building and managing CI/CD pipelines: GitHub Actions, Travis CI
 * Vite, Webpack
@@ -93,7 +96,7 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * Asynchronous programming (asyncio, threading, Promises, async/await)
 * Quality Assurance: E2E, TDD, BDD (pytest, jest, Selenium, Cypress)
 * Arduino & basics of AVR programming
-* Aseprite, Inkscape, Blender - mostly for pixelart and gamedev :stars:
+* Krita, Aseprite, Inkscape, Blender - mostly for pixelart and gamedev :stars:
 * Online Marketing (focusing on Google, Facebook, Amazon & Pinterst) & SEO
 * Network troubleshooting (CCNA or something); building and managing home networks
 * Machine Learning - because it's fancy right now
