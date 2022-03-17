@@ -31,10 +31,8 @@ I’m currently working at Canadian automotive company **Unhaggle** as a Full St
 
 ## :seedling: I’m currently learning... too many things at once
 
-* React ![React](https://img.shields.io/badge/-React-61DBFB?logo=React&logoColor=fff)
+* Krita ![Krita](https://img.shields.io/badge/-Krita-3babff?&logo=Krita&logoColor=fff)
 * Godot Engine ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?&logo=Godot+Engine&logoColor=fff)
-* Phaser3
-* Inkscape ![Inkscape](https://img.shields.io/badge/-Inkscape-000?logo=Inkscape&logoColor=fff)
 
 To be more precise - I'm continuously learning other things as well - including technologies I'm working with on day to day, however I'm still trying to keep in mind that:
 
@@ -46,10 +44,10 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 
 ## 📫 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?&logo=Facebook&logoColor=fff)](https://www.facebook.com/filipgorczynski/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=Twitter&logoColor=fff)](https://twitter.com/filipgorczynski)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/filip-g%C3%B3rczy%C5%84ski-52b08270/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=fff)](https://github.com/filipgorczynski)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=Twitter&logoColor=fff)](https://twitter.com/filipgorczynski)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?&logo=Facebook&logoColor=fff)](https://www.facebook.com/filipgorczynski/)
 [![Blog](https://img.shields.io/badge/-Blog-FFA500?&logo=RSS&logoColor=fff)](https://blog.filipgorczynski.me/)
 
 <!-- ## 🚧 Current Pet Projects (TBD)
@@ -61,45 +59,43 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 ## :sparkles: Some facts about me
 
 * I'm the prisoner of **tsundoku**
-* After switching to Python I haven't used PHP anymore and I'm a lot happier.
+* After switching to Python I wasn't using PHP anymore
 * When I wont be able to be a developer I want to focus on woodworking
 * I love *Who Am I* movie (the one from Germany)
 * I feel more focused with a hoodie puts on
 * I'm a huge fan of Iron Man and Hulk
 * I really enjoyed *Universe of Metro 2033* books series; also a big fan of two books: "Daemon" and "Freedom" written by Daniel Suarez.
-* I use ![Todoist](https://img.shields.io/badge/-Todoist-E44332?logo=Todoist&logoColor=fff) everyday
+* I'm a beginner miniatures painter
 
 ## :hourglass_flowing_sand: Things I don't know, I want to master or just improve (randomly ordered)
 
 * Software Architecture, microservices, distributed systems and all the fancy keywords
 * Dive into Domain-driven design
 * Software Design Patterns
-* Software Craftsmanship
+* My mindset & Software Craftsmanship
 * Learn teaching and mentoring
-* code search and read with **grep** and **find** from command line (only ack-grep right now)
+* code search and read with **grep** and **find** command line tools (only ack-grep right now)
 * best practices related with API design and its security
-* Vuetify, Material UI
-* deeper understanding of Docker ecosystem with Kubernetes
-* Building and managing CI/CD pipes: Travis CI & GitHub Actions
-* Webpack
-* Mermaid and **maybe** PlantUML
+* Vuetify, Tailwind CSS
+* deeper understanding of Docker ecosystem
+* Building and managing CI/CD pipelines: GitHub Actions, Travis CI
+* Vite, Webpack
+* syntax of Mermaid and **maybe** PlantUML
 * BPML
 * AWS (mostly web applications related services)
-* GraphQL, Elasticsearch, Redis, MongoDB, Firebase
-* Responsive Web Design & Flexbox
+* Redis, MongoDB, GraphQL, Elasticsearch
+* Responsive Web Design (Flexbox, Grid)
 * Progressive Web Application
 * Writing Chrome extensions
 * Web Applications Security
 * TypeScript
 * Messaging queues (RabbitMQ, ZeroMQ, RQ)
 * Asynchronous programming (asyncio, threading, Promises, async/await)
-* Reactive programming
-* Quality Assurance: E2E, TDD, BDD: pytest, jest, Selenium, Cypress, ...
+* Quality Assurance: E2E, TDD, BDD (pytest, jest, Selenium, Cypress)
 * Arduino & basics of AVR programming
 * Aseprite, Inkscape, Blender - mostly for pixelart and gamedev :stars:
 * Online Marketing (focusing on Google, Facebook, Amazon & Pinterst) & SEO
 * Network troubleshooting (CCNA or something); building and managing home networks
-* Web Scraping (with Scrapy package)
 * Machine Learning - because it's fancy right now
 * ...
 
