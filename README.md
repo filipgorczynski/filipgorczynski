@@ -21,12 +21,14 @@ I’m currently working as a junior game developer in Omnigame - game developmen
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=fff) ![Redis](https://img.shields.io/badge/-Redis-DC382D?&logo=Redis&logoColor=fff) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=fff) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=SQLite&logoColor=fff)
 
-![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff)
+![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff) ![Microsoft Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff)
 
-## :dart: My 2022Q2 Goals
+## :dart: My 2022Q23 Goals
 
 * Learn as much as possible of 🎮 development - my new career path
-* Learn MEVN stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
+* Learn MEVN stack ![MongoDB](https://img.shields.io/badge/-MongoB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
+* Learn ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff) and ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=Scala&logoColor=fff) fundamentals
+* Learn ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
 
 ## :seedling: I’m currently learning... too many things at once
 
