@@ -23,16 +23,20 @@ I’m currently working as a junior game developer in Omnigame - game developmen
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff) ![Microsoft Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff)
 
-## :dart: My 2022Q23 Goals
+## :dart: My 2022Q3 Goals (July, August, September)
 
 * Learn as much as possible of 🎮 development
 * Learn MEVN stack ![MongoDB](https://img.shields.io/badge/-MongoB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
-* Learn ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff) and ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=Scala&logoColor=fff) fundamentals
-* Learn ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
+* Learn ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?logo=Vuetify&logoColor=fff) UI
+* Learn ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff) fundamentals
+
+## :dart: My 2022Q4 Goals (October, November, December)
+
+* Learn ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=Scala&logoColor=fff) fundamentals
+* TBA
 
 ## :seedling: I’m currently learning... too many things at once
 
-* PixiJS for 🎮 development
 * MEVN Stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff)
 <!--* Krita ![Krita](https://img.shields.io/badge/-Krita-3BABFF?&logo=Krita&logoColor=fff) and Inkscape ![Inkscape](https://img.shields.io/badge/-Inkscape-000?logo=Inkscape&logoColor=fff)-->
 <!--* Godot Engine ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?&logo=Godot+Engine&logoColor=fff)
