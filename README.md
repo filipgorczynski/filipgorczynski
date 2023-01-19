@@ -23,18 +23,19 @@ I’m currently working as a junior game developer in Omnigame - game developmen
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff) ![Microsoft Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff)
 
-## :dart: My 2022Q3 Goals (July, August, September)
+<!-- ## :dart: My 2022Q3 Goals (July, August, September)
 
 * Back to web applications development
 * Learn MEVN stack ![MongoDB](https://img.shields.io/badge/-MongoB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) and/or ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
-* Learn ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?logo=Vuetify&logoColor=fff) UI
+* Learn ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?logo=Vuetify&logoColor=fff) UI -->
 
-## :dart: My 2022Q4 Goals (October, November, December)
+## :dart: My 2023Q1 Goals (January, February, March)
 
-* Learn (recall) ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff)
+* Recall ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)
+* Recall ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
+* Recall ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff)
 * Learn ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
 * Learn ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff) fundamentals
-* TBA
 <!-- * Learn ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=Scala&logoColor=fff) fundamentals -->
 
 ## :seedling: I’m currently learning
@@ -79,9 +80,10 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 ## :hourglass_flowing_sand: Things I don't know, I want to master or just improve (randomly ordered)
 
 * Software Architecture, microservices, distributed systems and all the fancy keywords
-* Dive into Domain-driven design
+* get familiarized with Domain-driven design
 * Software Design Patterns
-* My mindset & Software Craftsmanship
+* Improve my mindset & self-image
+* Work on my Software Craftsmanship
 * Learn teaching and mentoring
 * code search and read with **grep** and **find** command line tools (only ack-grep right now)
 * best practices related with API design and its security
@@ -101,10 +103,10 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 * Messaging queues (RabbitMQ, ZeroMQ, RQ)
 * Asynchronous programming (asyncio, threading, Promises, async/await)
 * Quality Assurance: E2E, TDD, BDD (pytest, jest, Selenium, Cypress)
-* Arduino, Raspberry PI & basics of AVR programming
+* Arduino & basics of AVR programming
 * Krita, Aseprite, Inkscape, Blender - mostly for pixelart and gamedev :stars:
 * Online Marketing (focusing on Google, Facebook, Amazon & Pinterst) & SEO
-* Network troubleshooting (CCNA or something); building and managing home networks
+* Network troubleshooting (CCNA or something similar); building and managing home networks
 * Machine Learning - because it's fancy right now
 * ...
 
