@@ -2,16 +2,11 @@
 
 ## :man_technologist: About Me
 
-I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between full stack web developer, junior game developer and family guy.
+I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between full stack web developer, family guy & beginner Warhammer 40000 player.
 
-I’m currently working as a junior game developer in Omnigame - game development company from Denmark. Yeah, I've decided to change my career path to try something new.
+For more than a decade in the industry as a web application developer for a one year I've switched my career path to become a junior game developer in Danish company Omnigame - but finally game development isn't for me. Still, it was really exciting. I'm currently working as a software engineer for a Swiss company - Neoinstinct as I feel more confident with web applications.
 
 :gift: If you'd like to buy me something there is a [short and "curated" wish list](https://blog.filipgorczynski.me/pages/wish-list.html).
-
-<!-- ## :heartpulse:  My values (TBD)
-
-* Beginner's mindset and curiosity
-* Sharing anything I learned -->
 
 ## :hammer_and_wrench: Languages and Tools
 
@@ -23,36 +18,10 @@ I’m currently working as a junior game developer in Omnigame - game developmen
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff) ![Microsoft Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff)
 
-<!-- ## :dart: My 2022Q3 Goals (July, August, September)
+## :dart: My 2023Q2 Goals (April, May, June)
 
-* Back to web applications development
-* Learn MEVN stack ![MongoDB](https://img.shields.io/badge/-MongoB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) and/or ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff) and build 1 bigger project.
-* Learn ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?logo=Vuetify&logoColor=fff) UI -->
-
-## :dart: My 2023Q1 Goals (January, February, March)
-
-* Recall ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)
-* Recall ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
-* Recall ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff)
-* Learn ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
-* Learn ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff) fundamentals
-<!-- * Learn ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=Scala&logoColor=fff) fundamentals -->
-
-## :seedling: I’m currently learning
-
-* MEVN Stack ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?logo=Node.JS&logoColor=fff)
-<!--* Krita ![Krita](https://img.shields.io/badge/-Krita-3BABFF?&logo=Krita&logoColor=fff) and Inkscape ![Inkscape](https://img.shields.io/badge/-Inkscape-000?logo=Inkscape&logoColor=fff)-->
-<!--* Godot Engine ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?&logo=Godot+Engine&logoColor=fff)
-* Blender ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=Blender&logoColor=fff)-->
-<!-- * Unity ![Unity](https://img.shields.io/badge/-Unity-000?logo=Unity&logoColor=fff) -->
-
-To be more precise - I'm continuously learning other things as well - including technologies I'm working with on day to day, however I'm still trying to keep in mind that:
-
-> You can do anything, but not everything.
-
-And to be honest I'm not good at it because I'm curious about too many things.
-
-I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_hand: [Personal Blog](https://blog.filipgorczynski.me/) - more or less regularly.
+* Learn ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=fff) & ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=Chakra%20UI&logoColor=fff)
+* Get into Machine Learning
 
 ## 📫 Connect with Me
 
@@ -62,52 +31,52 @@ I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_han
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?&logo=Facebook&logoColor=fff)](https://www.facebook.com/filipgorczynski/)
 [![Blog](https://img.shields.io/badge/-Blog-FFA500?&logo=RSS&logoColor=fff)](https://blog.filipgorczynski.me/)
 
-<!-- ## 🚧 Current Pet Projects (TBD)
+<!-- ## 🚧 Pet Projects I'm working on (or just playing with)
 
 * DJobeet
-* Rathma
+* rathma.io
 *  -->
 
 ## :sparkles: Some facts about me
 
-* When I wont be able to be a developer I want to focus on woodworking and board games.
+* When I won't be able to be a software developer I want to focus on woodworking and board games (not just collecting them but also playing).
 * I love *Who Am I* movie (the one from Germany)
 * I feel more focused with a hoodie puts on
 * I'm a huge fan of Iron Man and Hulk
 * I really enjoyed *Universe of Metro 2033* books series; also a big fan of two books: "Daemon" and "Freedom" written by Daniel Suarez.
-* I'm a beginner in Warhammer 40,000 universe, terrains building (dungeons) and miniatures painting. And I really :heart: it.
+* I'm a beginner in Warhammer 40,000 universe (Necrons is my army of choice), terrains building (dungeons) and miniatures painting. And I really :heart: it.
+* I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_hand: [Personal Blog](https://blog.filipgorczynski.me/) - more or less regularly.
 
 ## :hourglass_flowing_sand: Things I don't know, I want to master or just improve (randomly ordered)
 
 * Software Architecture, microservices, distributed systems and all the fancy keywords
+* AWS (mostly web applications related services)
+* Machine Learning
 * get familiarized with Domain-driven design
 * Software Design Patterns
 * Improve my mindset & self-image
 * Work on my Software Craftsmanship
-* Learn teaching and mentoring
+* Improve teaching and mentoring skills
 * code search and read with **grep** and **find** command line tools (only ack-grep right now)
 * best practices related with API design and its security
-* Vuetify, Bootstrap, Tailwind CSS
+* Chakra UI, Tailwind CSS
 * deeper understanding of Docker ecosystem
 * Building and managing CI/CD pipelines: GitHub Actions, Travis CI
-* Vite, Webpack
 * syntax of Mermaid and **maybe** PlantUML
 * BPML
-* AWS (mostly web applications related services)
 * Redis, MongoDB, GraphQL, Elasticsearch
+* Apache Kafka, Apache Airflow, Apache Solr
 * Responsive Web Design (Flexbox, Grid)
 * Progressive Web Application
 * Writing Chrome extensions
 * Web Applications Security
-* TypeScript
+* TypeScript with Functional Programming (fp.js)
 * Messaging queues (RabbitMQ, ZeroMQ, RQ)
 * Asynchronous programming (asyncio, threading, Promises, async/await)
 * Quality Assurance: E2E, TDD, BDD (pytest, jest, Selenium, Cypress)
-* Arduino & basics of AVR programming
-* Krita, Aseprite, Inkscape, Blender - mostly for pixelart and gamedev :stars:
-* Online Marketing (focusing on Google, Facebook, Amazon & Pinterst) & SEO
+* Arduino & basics of AVR programming (to build at least Mark I of Iron Man suit)
+* Krita, Aseprite, Inkscape - mostly for pixelart & digital art (or I'll just stay with figures paiting)
 * Network troubleshooting (CCNA or something similar); building and managing home networks
-* Machine Learning - because it's fancy right now
 * ...
 
 I know the list is long, but let's be honest - our world is awesome place with lots things to learn, even if we just focus on tech industry.
