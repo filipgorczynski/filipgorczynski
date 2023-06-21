@@ -52,18 +52,13 @@ For more than a decade in the industry as a web application developer for a one 
 * Software Architecture, microservices, distributed systems and all the fancy keywords
 * AWS (mostly web applications related services)
 * Machine Learning
-* get familiarized with Domain-driven design
 * Software Design Patterns
-* Improve my mindset & self-image
 * Work on my Software Craftsmanship
-* Improve teaching and mentoring skills
-* code search and read with **grep** and **find** command line tools (only ack-grep right now)
 * best practices related with API design and its security
 * Chakra UI, Tailwind CSS
 * deeper understanding of Docker ecosystem
 * Building and managing CI/CD pipelines: GitHub Actions, Travis CI
-* syntax of Mermaid and **maybe** PlantUML
-* BPML
+* syntax of Mermaid and/or **maybe** PlantUML, BPML
 * Redis, MongoDB, GraphQL, Elasticsearch
 * Apache Kafka, Apache Airflow, Apache Solr
 * Responsive Web Design (Flexbox, Grid)
@@ -75,8 +70,8 @@ For more than a decade in the industry as a web application developer for a one 
 * Asynchronous programming (asyncio, threading, Promises, async/await)
 * Quality Assurance: E2E, TDD, BDD (pytest, jest, Selenium, Cypress)
 * Arduino & basics of AVR programming (to build at least Mark I of Iron Man suit)
-* Krita, Aseprite, Inkscape - mostly for pixelart & digital art (or I'll just stay with figures paiting)
 * Network troubleshooting (CCNA or something similar); building and managing home networks
+* Krita, Aseprite, Inkscape - mostly for pixelart & digital art (or I'll just stay with figures paiting)
 * ...
 
 I know the list is long, but let's be honest - our world is awesome place with lots things to learn, even if we just focus on tech industry.
