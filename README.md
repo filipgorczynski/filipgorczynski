@@ -18,9 +18,9 @@ For more than a decade in the industry as a web application developer for a one 
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff) ![Microsoft Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff)
 
-## :dart: My 2023Q2 Goals (April, May, June)
+## :dart: My 2023Q3 Goals (July, August, September)
 
-* Learn ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=fff) & ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=Chakra%20UI&logoColor=fff)
+* Learn ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=fff), ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=Chakra%20UI&logoColor=fff) & ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=fff)
 * Get into Machine Learning
 
 ## 📫 Connect with Me
@@ -66,7 +66,7 @@ For more than a decade in the industry as a web application developer for a one 
 * Writing Chrome extensions
 * Web Applications Security
 * TypeScript with Functional Programming (fp.js)
-* Messaging queues (RabbitMQ, ZeroMQ, RQ)
+* Messaging queues (Apache Kafka, RabbitMQ, ZeroMQ, RQ)
 * Asynchronous programming (asyncio, threading, Promises, async/await)
 * Quality Assurance: E2E, TDD, BDD (pytest, jest, Selenium, Cypress)
 * Arduino & basics of AVR programming (to build at least Mark I of Iron Man suit)
