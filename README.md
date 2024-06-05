@@ -2,7 +2,7 @@
 
 ## :man_technologist: About Me
 
-I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between full stack web developer, family guy & beginner Warhammer 40000 player.
+I'm Filip and I wear many hats depending on what is required of me but most of the time I jump between full stack web developer, family guy & hobbyist Warhammer 40000 player/painter.
 
 For more than a decade in the industry as a web application developer for a one year I've switched my career path to become a junior game developer in Danish company Omnigame - but finally game development isn't for me. Still, it was really exciting. I'm currently working as a software engineer for a Swiss company - Neoinstinct as I feel more confident with web applications.
 
@@ -18,10 +18,10 @@ For more than a decade in the industry as a web application developer for a one 
 
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-294172?logo=Fedora&logoColor=fff) ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff) ![Microsoft Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff)
 
-## :dart: My 2024Q1 Goals (January, February, March)
+<!-- ## :dart: My 2024Q2 Goals (April, May, June)
 
-* Learn ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=fff), ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=fff) & ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=Chakra%20UI&logoColor=fff)
-* Get into Machine Learning
+- Learn ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=fff), ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=333) & ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=Chakra%20UI&logoColor=fff)
+- Get into Machine Learning -->
 
 ## 📫 Connect with Me
 
@@ -39,36 +39,36 @@ For more than a decade in the industry as a web application developer for a one 
 
 ## :sparkles: Some facts about me
 
-* When I won't be able to be a software developer I want to focus on woodworking, Warhammer 40k, board games (not just collecting them but even playing) & maybe some RPG stuff.
-* I love *Who Am I* movie (the one from Germany)
-* I feel more focused with a hoodie puts on
-* I'm a big fan of Iron Man and Hulk
-* I really enjoyed *Universe of Metro 2033* books series; also a big fan of two books: "Daemon" and "Freedom" written by Daniel Suarez.
-* I'm a beginner in Warhammer 40,000 universe (Necrons is my army of choice). But Leagues of Votann army is interesting too. And I really :heart: it.
-* I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_hand: [Personal Blog](https://blog.filipgorczynski.me/) - more or less regularly.
+- When I won't be able to be a software developer I want to focus on woodworking, Warhammer 40k, board games (not just collecting them but even playing), RPG stuff & painting mini figures.
+- I love _Who Am I_ movie (the one from Germany)
+- I feel more focused with a hoodie puts on
+- I'm a big fan of Iron Man and Hulk
+- I really enjoyed _Universe of Metro 2033_ books series; also a big fan of two books: "Daemon" and "Freedom" written by Daniel Suarez.
+- I'm a beginner in Warhammer 40,000 universe. Necrons is my first army of choice. However right now Leagues of Votann is on the table. And I really :heart: it.
+- I write my personal thoughts on :gear: Tech & :seedling: Life on my :writing_hand: [Personal Blog](https://blog.filipgorczynski.me/) - more or less regularly.
 
 ## :hourglass_flowing_sand: Things I don't know, I want to master or just improve (randomly ordered)
 
-* Software Architecture, microservices, distributed systems and all the fancy keywords
-* AWS (mostly web applications related services)
-* Machine Learning
-* Software Design Patterns
-* Work on my Software Craftsmanship
-* Messaging queues (Apache Kafka, RabbitMQ, ZeroMQ, RQ)
-* best practices related with API design and its security
-* Chakra UI, PrimeReact, Tailwind CSS
-* deeper understanding of Docker ecosystem
-* Building and managing CI/CD pipelines: GitHub Actions, Travis CI
-* syntax of Mermaid and/or **maybe** PlantUML, BPML
-* Redis, MongoDB, GraphQL, Elasticsearch, Solr, AirFlow
-* Responsive Web Design (Flexbox, Grid)
-* Progressive Web Application
-* Web Applications Security
-* TypeScript (maybe with Functional Programming (fp.js))
-* Asynchronous programming (asyncio, threading, Promises, async/await)
-* Quality Assurance: E2E, TDD, BDD (pytest, jest, Selenium, Cypress)
-* Network troubleshooting (CCNA or something similar); building and managing home networks
-* ...
+- Software Architecture, microservices, distributed systems and all the fancy keywords
+- AWS (mostly web applications related services)
+- Machine Learning
+- Software Design Patterns
+- Work on my Software Craftsmanship
+- Messaging queues (Apache Kafka, RabbitMQ, ZeroMQ, RQ)
+- best practices related with API design and its security
+- Chakra UI, PrimeReact, Tailwind CSS
+- deeper understanding of Docker ecosystem
+- Building and managing CI/CD pipelines: GitHub Actions, Travis CI
+- syntax of Mermaid and/or **maybe** PlantUML, BPML
+- Redis, MongoDB, GraphQL, Elasticsearch, Solr, AirFlow
+- Responsive Web Design (Flexbox, Grid)
+- Progressive Web Application
+- Web Applications Security
+- TypeScript (maybe with Functional Programming (fp.js))
+- Asynchronous programming (asyncio, threading, Promises, async/await)
+- Quality Assurance: E2E, TDD, BDD (pytest, jest, vitest, Selenium, Cypress)
+- Network troubleshooting (CCNA or something similar); building and managing home networks
+- ...
 
 I know the list is long, but let's be honest - our world is awesome place with lots things to learn, even if we just focus on tech industry.
 
